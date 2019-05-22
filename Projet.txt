@@ -12,7 +12,7 @@ La plateforme devra permettre:
 
 Au bailleur
  - d'enregistrer/éditer sa salle de sport
- - de consulter les réservations (en cours et passés)
+ - de consulter les réservations (en cours et passées)
  - d'annuler une réservation (confirmation/notification)
 
 Au locataire (utilisateur)
@@ -21,9 +21,10 @@ Au locataire (utilisateur)
 - de visualiser les résultats de la recherche
 - de consulter les annonces
 - de réserver une salle pour une ou plusieurs dates/plages horaires. (confirmation/notification)
-- de consulter ses réservation (en cours et passées)
+- de consulter ses réservations (en cours et passées)
 - d'annuler une réservation (confirmation/notification) 
 - de créditer son compte (confirmation/notification)
+
 
 Une annonce de salle sera publique que si la pièce d'identité du bailleur à été vérifiée
 Un utilisateur pourra réserver que lorsque sa pièce d'identité aura été vérifiée.
