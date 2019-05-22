@@ -38,6 +38,7 @@ L'annulation faite par le bailleur, recrédite le compte utilisateur intégralem
 L'annulation faite par l'utilisateur, recrédite son compte du pourcentage prévu par le bailleur.
 
 Salle:
+- bailleur
 - libelle (ex: "Salle très bien équipée centre ville de Tours")
 - adresse
 - dimensions 
