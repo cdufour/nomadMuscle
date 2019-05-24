@@ -71,6 +71,15 @@ Locataire:
 
 Source d'inspiration: airbnb
 
-Vous avez 4 jours pour développer le prototype (maquette fonctionnelle) de cette application.
-Vous pouvez travailler à 1, 2 ou 3.
-Présentation vendredi 24 mai, matin.
+L'application complète devra être présentée (démo en situation réelle) le lundi 17 juin.
+
+Groupes et horaires de passage:
+
+1/ Eric, Tanguy, Léa | 9h30-10h
+2/ Anthony, Gwendal | 10h-10h30
+3/ Abdillah, Laurence | 10h30 - 11h
+4/ Jessy | 11h15 - 11h45
+5/ Abdel | 11h45 - 12h15
+6/ Damien | 12h15 - 12h45
+
+Non concerné: Rayane, Paul, James(?)
