@@ -71,7 +71,7 @@ Locataire:
 
 Source d'inspiration: airbnb
 
-L'application complète devra être présentée (démo en situation réelle) le lundi 17 juin.
+L'application complète devra être présentée (démo en situation réelle) devant jury  le lundi 17 juin.
 
 Groupes et horaires de passage:
 
